@@ -1,0 +1,13 @@
+jupyter
+SPARQLWrapper
+python-benedict
+ipypublish
+pandas
+sparql_dataframe
+matplotlib
+plotly
+obj2html
+streamlit
+pillow
+qrcode
+thothlibrary==0.16.0

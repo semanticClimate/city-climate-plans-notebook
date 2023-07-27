@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "semanticClimate proof-of-concept"
+  author: "Simon Bowie"
+  date: "2023-07-13"
+  chapters:
+    - index.qmd
+    - groups_groups.qmd
+  repo-url: https://github.com/SimonXIX/scholarled_catalogue
+  repo-actions: [edit]
+  downloads: [pdf]
+
+comments:
+  hypothesis: true
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: minty
+    number-sections: false
+  pdf:
+    documentclass: scrreprt

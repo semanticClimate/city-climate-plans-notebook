@@ -1,0 +1,31 @@
+version: "3.9"
+services:
+  jupyterlab:
+    build: ./jupyter_docker
+    container_name: jupyterlab
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./jupyter_data:/opt/app/data
+      - ./jupyter_docker/jupyter_notebook_config.py:/root/.jupyter/jupyter_notebook_config.py
+      - ./:/notebooks
+    entrypoint: sh -c 'jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --notebook-dir=/opt/app/data --allow-root'
+    
+  quarto:
+    build: ./quarto_docker
+    platform: linux/amd64
+    container_name: quarto
+    volumes:
+      - .:/input
+    stdin_open: true  # docker run -i
+    tty: true         # docker run -t
+    
+      #nginx:
+      #image: nginx:latest
+      #container_name: nginx
+      #restart: unless-stopped
+      #ports:
+      #- "1337:80"
+      #volumes:
+      #- ./nginx-conf:/etc/nginx/conf.d
+      #- ./docs:/var/www/html

@@ -1,0 +1,1 @@
+# semanticClimate automated publication proof-of-concept
