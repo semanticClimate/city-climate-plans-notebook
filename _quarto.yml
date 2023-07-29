@@ -9,7 +9,7 @@ book:
   chapters:
     - index.qmd
     - groups_groups.qmd
-  repo-url: https://github.com/SimonXIX/scholarled_catalogue
+  repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
   repo-actions: [edit]
   downloads: [pdf]
 
