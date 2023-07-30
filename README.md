@@ -1,4 +1,6 @@
-# semanticClimate automated publication proof-of-concept
+# City Climate Plans Notebook
+
+semanticClimate automated publication proof-of-concept
 
 ## installation
 
