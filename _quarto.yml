@@ -15,7 +15,8 @@ book:
     - q5.qmd
   repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
   repo-actions: [edit]
-  downloads: [pdf]
+  downloads: [pdf,docx,epub]
+  cover-image: cover.png
 
 comments:
   hypothesis: true
@@ -28,3 +29,10 @@ format:
     number-sections: false
   pdf:
     documentclass: scrreprt
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+  epub: 
+    toc: true   
+  
