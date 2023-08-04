@@ -8,6 +8,11 @@ book:
   date: "2023-07-13"
   chapters:
     - index.qmd
+    - q1.qmd
+    - q2.qmd
+    - q3.qmd
+    - q4.qmd
+    - q5.qmd
     - groups_groups.qmd
   repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
   repo-actions: [edit]
