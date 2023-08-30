@@ -2,11 +2,13 @@
 
 ## Question: How can cities promote sustainable transportation options in their climate action plans?  
 
-## Query result: 10.7.4 Transport Modes Trajectories
+## Query result: 10.7.4 Transport Modes Trajectories (Page 1104-1106)
+
+Chapter 10 Transport. In IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the 6th Assessment Report of the IPCC
 
 URL: [https://www.ipcc.ch/report/ar6/wg3/](https://www.ipcc.ch/report/ar6/wg3/)
 
-*Cite:* 
+*Cite: Jaramillo, P., S. Kahn Ribeiro, P. Newman, S. Dhar, O.E. Diemuodeke, T. Kajino, D.S. Lee, S.B. Nugroho, X. Ou, A. Hammer Strømman, J. Whitehead, 2022: Transport. In IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA. doi: 10.1017/9781009157926.012* 
 
 ---
 
@@ -14,9 +16,7 @@ URL: [https://www.ipcc.ch/report/ar6/wg3/](https://www.ipcc.ch/report/ar6/wg3/)
 
 ### 10.7.4 Transport Modes Trajectories
 
-![Figure 10.19 | Transport activity trajectories for passenger and freight across different modes.](images/Fig-10.19.PNG "Figure 10.19 | Transport activity trajectories for passenger and freight across different modes.")
-
-**Figure 10.19 | Transport activity trajectories for passenger and freight across different modes.** Global passenger (billion pkm per year) and freight (billion tkm per year) demand projections relative to a modelled year 2020 index. Results for IAM are for selected stabilisation temperatures by 2100. Also included are global transport models Reference and Policy scenarios. Data from the AR6 scenario database. Trajectories span the 5th to 95th percentiles across models, with a solid line indicating the median value across models.
+![Figure 10.19 | Transport activity trajectories for passenger and freight across different modes.](images/Fig-10.19.PNG "**Figure 10.19 | Transport activity trajectories for passenger and freight across different modes.** Global passenger (billion pkm per year) and freight (billion tkm per year) demand projections relative to a modelled year 2020 index. Results for IAM are for selected stabilisation temperatures by 2100. Also included are global transport models Reference and Policy scenarios. Data from the AR6 scenario database. Trajectories span the 5th to 95th percentiles across models, with a solid line indicating the median value across models.")
 
 Globally over the last century, shares of faster transport modes have
 generally increased with increasing passenger travel demand (Schäfer
