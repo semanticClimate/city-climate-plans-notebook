@@ -9,7 +9,7 @@ Use case: Climate plan authors need to find IPCC Report recommendations, section
  - Next prototype #2: Automate Reader creation
  - Next prototype #3: AI assisted authoring
 
-semanticClimate is looking for support for the protoytpe rounds.
+semanticClimate is looking for support for the protoytpe rounds - contact semanticClimate on the [GitHub discussion thread](https://github.com/petermr/semanticClimate/discussions/32).
 
 This prototype was made at the FORCE11 Scholarly Communications Institute (FSCI) - 2023 Summer School - July 31 - August 4.
 
