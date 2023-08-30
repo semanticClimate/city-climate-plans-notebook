@@ -4,7 +4,7 @@ The prototype is a tool for creating 'Readers' made from collated content from I
 
 Use case: Climate plan authors need to find IPCC Report recommendations, sections, visualisations, and external references and use these in their own city climate plans as well as to distribute the content to their community for the purpose of making them democratically — understandable, accountable, and transparent.
 
-[Read about](workflows.qmd) the next steps, workflows, and technologies.
+[Read about](workflow.html) the next steps, workflows, and technologies.
 
  - Next prototype #2: Automate Reader creation
  - Next prototype #3: AI assisted authoring
@@ -25,6 +25,7 @@ Ahead to technically automating the search the **mock-up Reader** shows the type
 - Q2. What role do renewable energy sources play in city climate plans?
 - Q3. How can cities promote sustainable transportation options in their climate action plans?
 What strategies do cities employ to adapt to the impacts of climate change?
+- Q4. What strategies do cities employ to adapt to the impacts of climate change?
 - Q5. What are some successful examples of cities implementing effective climate action plans?
 
 ### Background
@@ -42,9 +43,9 @@ Currently IPCC reports are not supported by search services that allow for granu
  - More about the City Climate Plan Prototype
  - FSCI Summer School 2023
 
- ### Credits
+### Credits
 
-  - See [README.md](READEME.md)
+  - See [README.md](https://github.com/semanticClimate/city-climate-plans-notebook/blob/main/README.md)
 
 
 
