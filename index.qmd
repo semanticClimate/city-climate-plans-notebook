@@ -1,2 +1,51 @@
-# Introduction 
+## About the prototype
+
+The prototype is a tool for creating 'Readers' made from collated content from IPCC reports. Users can search IPCC Reports, select the content relevant to their questions, and create a reader to share with others.  
+
+Use case: Climate plan authors need to find IPCC Report recommendations, sections, visualisations, and external references and use these in their own city climate plans as well as to distribute the content to their community for the purpose of making them democratically — understandable, accountable, and transparent.
+
+[Read about](workflows.qmd) the next steps, workflows, and technologies.
+
+ - Next prototype #2: Automate Reader creation
+ - Next prototype #3: AI assisted authoring
+
+semanticClimate is looking for support for the protoytpe rounds.
+
+This prototype was made at the FORCE11 Scholarly Communications Institute (FSCI) - 2023 Summer School - July 31 - August 4.
+
+### Prototype questions
+
+Hackathon participants created five questions that are common to City Climate Plans.
+
+Ahead to technically automating the search the **mock-up Reader** shows the types of examples search results that could be collates.
+
+#### Questions
+
+- Q1. What measures can be taken by urban centers to mitigate and cut down on their emissions?
+- Q2. What role do renewable energy sources play in city climate plans?
+- Q3. How can cities promote sustainable transportation options in their climate action plans?
+What strategies do cities employ to adapt to the impacts of climate change?
+- Q5. What are some successful examples of cities implementing effective climate action plans?
+
+### Background
+
+The IPCC Reports are the source for the most important scientific knowledge on climate change. 
+
+City climate plans are important tools to help mitigate the impacts of climate change. 
+
+Currently IPCC reports are not supported by search services that allow for granular indexing. The semanticClimate research project uses Linked Open Data (LOD) and Wikidata / Wikibase technologies to enable better visibility for the IPCC Report contents.
+
+### Links
+
+ - semanticClimate project
+ - About the hackathon
+ - More about the City Climate Plan Prototype
+ - FSCI Summer School 2023
+
+ ### Credits
+
+  - See [README.md](READEME.md)
+
+
+
 
