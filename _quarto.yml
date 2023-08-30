@@ -13,6 +13,7 @@ book:
     - q3.qmd
     - q4.qmd
     - q5.qmd
+    - workflow.qmd
   repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
