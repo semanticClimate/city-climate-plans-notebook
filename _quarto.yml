@@ -7,12 +7,12 @@ book:
   author: "FSCI Hackathon Team"
   date: "2023-08-04"
   chapters:
-    - index.qmd
     - q1.qmd
     - q2.qmd
     - q3.qmd
     - q4.qmd
     - q5.qmd
+    - index.qmd
     - workflow.qmd
   repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
   repo-actions: [edit]
