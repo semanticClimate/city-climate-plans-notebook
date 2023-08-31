@@ -1,4 +1,4 @@
 ## Prototype Nextsteps & Workflows
 
-
+![Workflow: Making Climate Readers](images/climate reader 1.png "Workflow: Making Climate Readers")
 
