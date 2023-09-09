@@ -2,6 +2,9 @@
 
 semanticClimate automated publication proof-of-concept
 
+## Thank yous
+Thank you to all the hackathon participants, the semanticClimate team and especially Summer 2023 Interns and scientific staff from the ICAR-National Bureau of Plant Genetic Resources (ICAR-NBPGR), India, who contributed to the [‘mockup’ prototype](https://github.com/semanticClimate/city-climate-plans-notebook/blob/main/README.md): Cities (Mahvish Fatma, Renu Kumari, Waheb Mehdi), Mountains and Glaciers (Shiwani Yadav), and Food Security (Yasin Jeshima senior scientist from ICAR-NBPGR). Thank you to Peter Murray-Rust, Gitanjali Yadav, and Shweata Hegde for pushing semanticClimate forward and making dreams become reality. To Simon Bowie of the COPIM project and Centre for Postdigital Cultures – Coventry University, UK for the code contribution for the HTML to Markdown converter. [ADA Semantic Publishing Pipeline](https://github.com/TIBHannover/ADA) is from the NextGenBooks service provided the [Open Science Lab](https://www.tib.eu/en/research-development/research-groups-and-labs/open-science), TIB, and supported by NFDI4Culture research as part of the National Research Data Infrastructure Germany (NFDI).
+
 ## installation
 
 ### clone repository
