@@ -1,4 +1,26 @@
-## Prototype Nextsteps & Workflows
+## Prototype Next Steps & Workflows
 
-![Workflow: Making Climate Readers](images/climate reader 1.png "Workflow: Making Climate Readers")
+![Workflow: Making Climate Readers](images/climate reader 4.jpg "Workflow: Making Climate Readers")
+
+![Workflow: Making Climate Readers](images/AI climate reader 2.jpg "AI Workflow: Making Climate Readers")
+
+## Next steps?
+
+If you’re interested in helping out on the next round of prototyping by volunteering or contributing resources check out the semanticClimate [discussion](https://github.com/petermr/semanticClimate/discussions/32) and [project tasks](https://github.com/orgs/semanticClimate/projects/3) on GitHub.
+
+### A working prototype for Climate Reader
+
+The round of work from the hackathon allowed the team to see the gaps in the system and what would need to be put in place to have a working prototype — meaning we now have a roadmap. There are four priority areas to work on for a working prototype:
+1. How to smoothly move contributors' questions into the search and content retrieval process?
+2. How to create citation links to sections of the source material which are only held as PDFs and so can’t be targeted on a granular basis? [Wikibase](https://semanticclimate.org/IPCC-Queries/) has already been used by semanticClimate and is one route forward for this.
+3. Further automating the conversion of HTML content to Markdown.
+4. Adding a review process to the collated reader content.
+
+### AI prototype (self-hosted)
+
+AI Climate Reader is a proof of concept software prototype that can query scientific corpora and create ‘reader’ publications combining AI with added human review. The types of 'reader’ publications it would make are: Referenced summaries, suggestions for literature, and guides on specific topics. The publications would have all the references collated as full text in the publication.
+1. Deposit content in a Wikibase instance as with the [AR6 IPCC Report](https://semanticclimate.org/IPCC-Queries/). New Wikibase instances are supplied by [Wikibase4Research](https://nfdi4culture.de/services/details/wikibase4research.html).
+2. Then self-hosted AI would be used to create the publications — example AI models are [falcon-7b](https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3), [falcon-40b-v2](https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-falcon-40b-v2), [vicuna-33b-v1.3](https://huggingface.co/lmsys/vicuna-33b-v1.3).
+3. Review and multi-format publishing is then run to create a reproducible and replicable open science, semantic publication on GitHub/Lab Pages using the [ADA Semantic Publishing Pipeline](https://github.com/TIBHannover/ADA) which harnesses Fidus Writer and its Open Journals System JATS editor plugin.
+
 
