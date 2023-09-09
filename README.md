@@ -70,3 +70,17 @@ for Quarto to render the output into an output directory, in this case, ./docs.
 To preview the published publication, navigate to ./docs/index.html and open it in a web browser. You should see the entire published site. 
 
 When pushed to GitHub, GitHub Pages will then serve the HTML files in the ./docs directory as a website. 
+
+## Copyright and licencing
+
+Content - © 2023 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+ADA code - © 2023 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA/blob/main/LICENSE 
+
+Data - All data and data sets produced would be CC 0, Public Domain, https://creativecommons.org/publicdomain/zero/1.0/
+
+All fonts and graphics and media production software used on the production would be OSI compliant.
+
+FAIR principles would also be applied https://www.go-fair.org/fair-principles/
+
+All third party content and code is the copyright of the authors and under their respective OSI compliant open licenses for code and compliant with Creative Commons Attribution-ShareAlike 4.0 International for content.
