@@ -1,8 +1,8 @@
 ## Prototype Next Steps & Workflows
 
-![Workflow: Making Climate Readers](images/climate reader 4.jpg "Workflow: Making Climate Readers")
+![Workflow: Climate Reader](images/climate reader 4.jpg "Workflow: Climate Reader")
 
-![Workflow: Making Climate Readers](images/AI climate reader 2.jpg "AI Workflow: Making Climate Readers")
+![Workflow: AI Climate Reader](images/AI climate reader 2.jpg "Workflow: AI Climate Reader")
 
 ## Next steps?
 
