@@ -1,8 +1,17 @@
+---
+title: Prototype Next Steps & Workflows
+filters:
+   - lightbox
+lightbox: auto
+---
+
 ## Prototype Next Steps & Workflows
 
-![Workflow: Climate Reader](images/climate reader 4.jpg "Workflow: Climate Reader")
+![Workflow: City Climate Reader](workflows/city climate reader workflow v1.drawio.png "Workflow: City Climate Reader")
 
-![Workflow: AI Climate Reader](images/AI climate reader 2.jpg "Workflow: AI Climate Reader")
+![Workflow: AI City Climate Reader](workflows/AI city climate reader workflow v1.drawio.png "Workflow: AI City Climate Reader")
+
+See diagrams here: [https://github.com/semanticClimate/city-climate-plans-notebook/tree/main/workflows](https://github.com/semanticClimate/city-climate-plans-notebook/tree/main/workflows)
 
 ## Next steps?
 
