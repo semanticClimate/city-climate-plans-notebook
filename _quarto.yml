@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "IPCC Reports and City Climate Change Plans: Proof of concept prototype - 'Making Climate Readers'"
+  title: "IPCC Reports and City Climate Change Plans: Proof of concept prototype - Open Climate Reader"
   author: "FSCI Hackathon Team"
   date: "2023-08-04"
   chapters:
@@ -14,9 +14,9 @@ book:
     - q5.qmd
     - index.qmd
     - workflow.qmd
-  repo-url: https://github.com/semanticClimate/city-climate-plans-notebook
+  repo-url: https://github.com/semanticClimate/city-open-climate-reader
   repo-actions: [edit]
-  downloads: [pdf,docx,epub]
+  downloads: [pdf,docx,epub,icml]
   cover-image: cover.png
 
 comments:
@@ -36,4 +36,5 @@ format:
     highlight-style: github
   epub: 
     toc: true   
+  icml:  
   
