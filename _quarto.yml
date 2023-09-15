@@ -16,7 +16,7 @@ book:
     - workflow.qmd
   repo-url: https://github.com/semanticClimate/city-open-climate-reader
   repo-actions: [edit]
-  downloads: [pdf,docx,epub,icml]
+  downloads: [pdf,docx,epub]
   cover-image: cover.png
 
 comments:
@@ -36,5 +36,5 @@ format:
     highlight-style: github
   epub: 
     toc: true   
-  icml:  
+ 
   
