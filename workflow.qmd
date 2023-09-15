@@ -7,11 +7,11 @@ lightbox: auto
 
 ## Prototype Next Steps & Workflows
 
-![Workflow: City Climate Reader](workflows/city climate reader workflow v1.drawio.png "Workflow: City Climate Reader")
+![Workflow: City - Open Climate Reader](workflows/open climate reader workflow.drawio.png "Workflow: City - Open Climate Reader")
 
-![Workflow: AI City Climate Reader](workflows/AI city climate reader workflow v1.drawio.png "Workflow: AI City Climate Reader")
+![Workflow: AI Open Climate Reader](workflows/AI open climate reader workflow.drawio.png "Workflow: AI Open Climate Reader")
 
-See diagrams here: [https://github.com/semanticClimate/city-climate-plans-notebook/tree/main/workflows](https://github.com/semanticClimate/city-climate-plans-notebook/tree/main/workflows)
+See diagrams here: [https://github.com/semanticClimate/city-open-climate-reader/tree/main/workflows](https://github.com/semanticClimate/city-open-climate-reader/tree/main/workflows)
 
 ## Next steps?
 
